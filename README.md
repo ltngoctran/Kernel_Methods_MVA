@@ -13,7 +13,7 @@ In this challenge, we will work with three datasets corresponding to three diffe
 
 ## Leaderboard
 The model we choose for the final submission was the  spectrum kernel for k = 7 (or 8). 
-This final submission scored 0.63533 on the public leaderboard (ranked at the 58th place) and scored 0.62466 on the private leaderboard (ranked 62nd place).
+This final submission scored 0.63533 on the public leaderboard (ranked at the 58th place) and scored 0.62533 on the private leaderboard (ranked 62nd place).
 
 
 ## Run the  submission
