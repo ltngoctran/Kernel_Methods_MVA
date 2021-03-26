@@ -12,8 +12,8 @@ Genome-wide protein-DNA binding maps can be profiled using some experimental tec
 In this challenge, we will work with three datasets corresponding to three different TFs.
 
 ## Leaderboard
-The model we choose for the final submission was the  spectrum kernel for k = 7 (or 8). 
-This final submission scored 0.63533 on the public leaderboard (ranked at the 58th place) and scored 0.62533 on the private leaderboard (ranked 62nd place).
+The model is selected for the final submission was the spectrum kernel for k = 7 along with SVM C=10. 
+This final submission scored 0.63533 on the public leaderboard (ranked at 58th place) and scored 0.62533 on the private leaderboard (ranked 62nd place). However, the spectrum kernel for k=8 along with SVM C=1 gives the best private score which is 0.64533.
 
 
 ## Run the  submission
